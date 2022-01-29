@@ -20,3 +20,5 @@ This should be a 1920x1080 image.
 
 4. **Link to your app**  
 This is the link people will follow when entering your planet.
+
+![interface map](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/map_interface_components.png)
