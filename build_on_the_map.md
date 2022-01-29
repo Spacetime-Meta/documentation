@@ -15,10 +15,30 @@ Once loaded in the map, you model will be scaled down to 1mx1mx1m so it is recom
 2. **Your project logo**  
 This should be a square image, idealy 64x64.
 
-3. **banner image**  
+3. **Banner image**  
 This should be a 1920x1080 image.
 
 4. **Link to your app**  
 This is the link people will follow when entering your planet.
 
 ![interface map](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/map_interface_components.png)
+
+Once you have all 4 items, you need to host them somewhere. There are many options to make your content available, but the one we recomend is IPFS. All you need is the url for each of these items. Then you insert the urls in the following template 
+
+```
+  "<location x>,<location y>,<location z>":{
+            "name":"Spacetime Meta",
+            "prtl":"<url to your app>",
+            "img":"<url to your img>",
+            "logo":"<url to your logo>",
+            "icon":{
+                "type": ".gltf",
+                "gltf": "<IPFS hash of your .glb file>"
+            },
+            "location":{
+                "x": <location x>,
+                "y": <location y>,
+                "z": <location z>
+            }
+        }
+```
