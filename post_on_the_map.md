@@ -6,7 +6,8 @@ Spacetime Meta Map Actual Official Link: https://www.spacetimemeta.io/map.html
 
 As of 2022-01-28, the process is still a manual upload of your metadata to the [metadata repo](https://github.com/Spacetime-Meta/spacetime-metadata/blob/main/test_data). This process will be updated on the mint date.
 
-To connect a website to the metaverse, you will need the following 4 things:
+To connect a website to the metaverse, you will need the following 5 things:
+
 1. **Your 3D icon**  
 This part is optional, if you dont put anything, the loader will generate a default planet for your location.
 If you want to customize the appearance of your icon/planet, you will need a 3D model in the .gltf/.glb file format.  
@@ -21,24 +22,28 @@ This should be a 1920x1080 image.
 4. **Link to your app**  
 This is the link people will follow when entering your planet.
 
+5. **Name to display**  
+This is the short text that appears when users mouse over your planet.
+
 ![interface map](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/map_interface_components.png)
 
-Once you have all 4 items, you need to host them somewhere. There are many options to make your content available, but the one we recomend is IPFS. All you need is the url for each of these items. Then you insert the urls in the following template 
+Once you have all 4 items, you need to host them somewhere. There are many options to make your content available, but the one we recomend is [IPFS]{https://ipfs.io/}. All you need is the url for each of these items. Then you insert the urls in the following template 
 
 ```
-  "<location x>,<location y>,<location z>":{
-            "name":"Spacetime Meta",
-            "prtl":"<url to your app>",
-            "img":"<url to your img>",
-            "logo":"<url to your logo>",
-            "icon":{
-                "type": ".gltf",
-                "gltf": "<IPFS hash of your .glb file>"
-            },
-            "location":{
-                "x": <location x>,
-                "y": <location y>,
-                "z": <location z>
-            }
-        }
+{
+  "77223":{
+    "name":"<name to display>",
+    "prtl":"<url to your app>",
+    "img":"<url to your img>",
+    "logo":"<url to your logo>",
+    "icon":{
+      "type": ".gltf",
+      "gltf": "<IPFS hash of your .glb file>"
+    }
+  }
+}
 ```
+
+**Have difficulty updating your planet?**  
+Join our [Official Discord](https://discord.gg/wtRMBXw2bd) and ask question. Someone will help you.
+
