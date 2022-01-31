@@ -43,6 +43,21 @@ Once you have all 4 items, you need to host them somewhere. There are many optio
   }
 }
 ```
+Once you are done preparing your metadata, we recomend you validate it using a [JSON validator](https://jsonlint.com/). Your complete matadata should look something like this:
+```
+{
+  "77223":{
+    "name":"Spacetime Meta",
+    "prtl":"https://spacetime-meta.github.io/spawn-planet2.0/",
+    "img":"https://cdn.discordapp.com/attachments/874011464996909088/927263231133745152/This_could_be_your_home.png",
+    "logo":"https://ipfs.io/ipfs/QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
+    "icon":{
+      "type": ".gltf",
+      "gltf": "QmSKSkeKt5mrpSUZbcndCyHC4j3BXC52HfxTAtJ6bSG72m"
+    }
+  }
+}
+```
 
 **Have difficulty updating your planet?**  
 Join our [Official Discord](https://discord.gg/wtRMBXw2bd) and ask question. Someone will help you.
