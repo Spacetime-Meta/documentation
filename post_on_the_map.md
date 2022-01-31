@@ -27,7 +27,7 @@ This is the short text that appears when users mouse over your planet.
 
 ![interface map](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/map_interface_components.png)
 
-Once you have all 4 items, you need to host them somewhere. There are many options to make your content available, but the one we recomend is [IPFS]{https://ipfs.io/}. All you need is the url for each of these items. Then you insert the urls in the following template 
+Once you have all 4 items, you need to host them somewhere. There are many options to make your content available, but the one we recomend is [IPFS](https://ipfs.io/). All you need is the url for each of these items. Then you insert the urls in the following template 
 
 ```
 {
