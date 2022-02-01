@@ -31,30 +31,26 @@ Once you have all 4 items, you need to host them somewhere. There are many optio
 
 ```
 {
-  "77223":{
-    "name":"<name to display>",
-    "prtl":"<url to your app>",
-    "img":"<url to your img>",
-    "logo":"<url to your logo>",
-    "icon":{
-      "type": ".gltf",
-      "gltf": "<IPFS hash of your .glb file>"
-    }
+  "SpacetimeMeta":{
+    "name":"Spacetime Meta",
+    "prtl":"https://spacetime-meta.github.io/spawn-planet2.0/",
+    "img":"https://cdn.discordapp.com/attachments/874011464996909088/927263231133745152/This_could_be_your_home.png",
+    "logo":"https://ipfs.io/ipfs/QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
+    "iconType":".gltf",
+    "gltf": "QmSKSkeKt5mrpSUZbcndCyHC4j3BXC52HfxTAtJ6bSG72m"
   }
 }
 ```
 Once you are done preparing your metadata, we recomend you validate it using a [JSON validator](https://jsonlint.com/). Your complete matadata should look something like this:
 ```
 {
-  "77223":{
+  "SpacetimeMeta":{
     "name":"Spacetime Meta",
     "prtl":"https://spacetime-meta.github.io/spawn-planet2.0/",
     "img":"https://cdn.discordapp.com/attachments/874011464996909088/927263231133745152/This_could_be_your_home.png",
     "logo":"https://ipfs.io/ipfs/QmfD8B3U5pzKDxV5XC2SbmysVWUwDvQ4eVLrZuUfJMBGEt",
-    "icon":{
-      "type": ".gltf",
-      "gltf": "QmSKSkeKt5mrpSUZbcndCyHC4j3BXC52HfxTAtJ6bSG72m"
-    }
+    "iconType":".gltf",
+    "gltf": "QmSKSkeKt5mrpSUZbcndCyHC4j3BXC52HfxTAtJ6bSG72m"
   }
 }
 ```
