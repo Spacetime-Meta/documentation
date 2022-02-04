@@ -1,6 +1,6 @@
 # How to update your planet on the Spacetime Meta map.
 
-Spacetime Meta Map Actual Official Link: https://www.stmdev.netlify.app/map (will update on public mint)
+Spacetime Meta Map Actual Official Link: https://www.spacetimemeta.io/map (will update on public mint)
 
 **The map is still in heavy developement! Please be aware that there will be constant updates to this documentation and you might have to update your app/chunk to keep up with the latest methods**
 
@@ -31,7 +31,7 @@ This is the short text that appears when users mouse hover your planet.
 
 # STEP 2: Test your stuff
 
-Once you have all 5 items, go to the icon tester at https://www.stmdev.netlify.app/tester . You will see a form and need to fill it with the information you gathered earlier.
+Once you have all 5 items, go to the icon tester at https://www.spacetimemeta.io/tester . You will see a form and need to fill it with the information you gathered earlier.
 
 ![icon tester](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/info_menu.png)
 
