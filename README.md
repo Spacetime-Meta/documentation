@@ -1,5 +1,7 @@
 # documentation
-The goal of this repository is to assemble a knowledge base for the community to build on top of Spacetime Metaverse 
+The goal of this repository is to assemble a knowledge base for the community to build on top of Spacetime Metaverse  
+
+**Space Chunk policyID: 7652a254a5691f32203c093fcbd74193447c8724cadaf5e7402cf33b**  
 
 Up to now you can get the following information:
 1. [Whitepaper](https://github.com/Spacetime-Meta/documentation/blob/main/whitepaper.md): The developement guidelines and high level overview.
