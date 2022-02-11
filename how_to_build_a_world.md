@@ -1,12 +1,12 @@
 # how to build a world
 
-In the end, a link to your world is the only thing you need to connect your environement to the Spacetime Meta. This mean you have no limitation on how to build your world. You can use any of the solutions proposed here or you can use your own way.
+In the end, a link to your world and a chunk are the only things you need to connect your environement to the Spacetime Meta. This mean you have no limitation on how to build your world. You can use any of the solutions proposed here or you can use your own way.
 
 We still have to agree on the metaverse standards. One thing that is sure is that these standards will simply extend the already existing web standards and best practices. This means you wont have to use anything else than some javascript, html and css.
 
 We strongly recomend 3D environements but you can always link to a classic 2D website like this page you are reading. Note that download links will be blacklisted.  
 
-Here is a list of the recomended solutions to build your 3D world:
+Here is a list of solutions to build your 3D world:
 1. **Use the Spacetime Community Standard Kit** <- recomended
 2. Build everything yourself using a library like threejs or babylonjs.
 3. Build the world using unity/unreal and export it to WebGL.
@@ -15,8 +15,8 @@ Here is a list of the recomended solutions to build your 3D world:
 ## The Spacetime Community Standard Kit.  
 The Spacetime Community Kit is the Recomended solution as it will take care of the metaverse integration and will be continuously updated. **This is not a final version!** This is only a first draft and will demand a lot of work and feedback from the community in order to be complete. There will be bugs and problems, but we invite you to contribute to this standard. To learn more you can read the [how to contribute](https://www.youtube.com/watch?v=dQw4w9WgXcQ) documentation.
 
-As of now, there are 4 main steps in creating a world and connecting it to the Spacetime Metaverse.
-1. Create the terrain and assets and export them to the `.gltf/.glb` format. [learn more]()
+As of now, there are 4 steps in creating a world and connecting it to the Spacetime Metaverse. Click the *Learn more* link for precise infomation on each of these steps.
+1. Create the terrain and assets then export your scene to the `.gltf/.glb` format. [learn more]()
 2. Insert your terrain into the standard world. [learn more]()
 3. Host the standard world and make it accessible. [learn more]()
 4. Link the world to the Spacetime Meta map. [learn more](https://github.com/Spacetime-Meta/documentation/blob/main/post_on_the_map.md)
