@@ -1,6 +1,6 @@
-# How to update your planet on the Spacetime Meta map.
+# How to update your planet and connects your world to the Spacetime Meta map.
 
-Spacetime Meta Map Actual Official Link: https://www.spacetimemeta.io/map (will update on public mint)
+Spacetime Meta Map Actual Official Link: https://www.spacetimemeta.io/map
 
 **The map is still in heavy developement! Please be aware that there will be constant updates to this documentation and you might have to update your app/chunk to keep up with the latest methods**
 
