@@ -1,10 +1,10 @@
-# how to build a world
+# Introduction
 
-In the end, a link to your world and a chunk are the only things you need to connect your environement to the Spacetime Meta. This mean you have no limitation on how to build your world. You can use any of the solutions proposed here or you can use your own way.
+A web link and a chunk are the only things you need to connect your environement to the Spacetime Meta. This mean you have no limitation on how to build your world. You can use any of the solutions proposed here or you can use your own way, but we strongly recommend using the community standard kit.
 
-We still have to agree on the metaverse standards. One thing that is sure is that these standards will simply extend the already existing web standards and best practices. This means you wont have to use anything else than some javascript, html and css.
+We still have to agree on the metaverse standards, one thing that is sure is that these standards will simply extend the already existing web standards and best practices. This means you wont have to use anything else than some javascript, html and css.
 
-We strongly recomend 3D environements but you can always link to a classic 2D website like this page you are reading. Note that download links will be blacklisted.  
+For better metaverse experiance, we recommend 3D environements but you can always link to a classic 2D website like this page you are reading. Note that download links will be blacklisted.  
 
 Here is a list of solutions to build your 3D world:
 1. **Use the Spacetime Community Standard Kit** <- recomended
@@ -15,7 +15,7 @@ Here is a list of solutions to build your 3D world:
 ## The Spacetime Community Standard Kit.  
 The Spacetime Community Kit is the Recomended solution as it will take care of the metaverse integration and will be continuously updated. **This is not a final version!** This is only a first draft and will demand a lot of work and feedback from the community in order to be complete. There will be bugs and problems, but we invite you to contribute to this standard. To learn more you can read the [how to contribute](https://www.youtube.com/watch?v=dQw4w9WgXcQ) documentation.
 
-As of now, there are 4 steps in creating a world and connecting it to the Spacetime Metaverse. Click the *Learn more* link for precise infomation on each of these steps.
+As of now, there are 4 steps in creating a world and connecting it to the Spacetime Metaverse. Click the *Learn more* link for more infomation on each of these steps.
 1. Create the terrain and assets then export your scene to the `.gltf/.glb` format. [learn more]()
 2. Insert your terrain into the standard world. [learn more]()
 3. Host the standard world and make it accessible. [learn more]()
@@ -35,7 +35,7 @@ This solution is recomended if you are trying to build a **complex game that is 
 For more informations, we recommend searching youtube for introduction videos.
 
 ## Use a Web2 service.  
-The is the easiest solution but it wont give you much freedom and has a lot of downsides. The best known services available now are:  
+This is the easiest solution but it wont give you much freedom and has a lot of downsides. The best known services available now are:  
 
 1. **[Muse](https://www.muse.place/)**.  
 Muse in a user-friendly metaverse creation app. One of its cool features is that they have maps like museums that you can customize easily for free. 
@@ -49,7 +49,4 @@ These services are great to have something quickly, but you will never truly own
 ## Frequently asked questions
 
 **Can I use something else?**  
-Answer is yes, you can build your stuff with the software that you want. As long as you can host your 3D environment on a webpage.The important part is that people don't have to download you game or world before playing. 
-
-**Now that I have a virtual environement, how to connect it to spacetime meta?**   
-See the documentation [here](https://github.com/Spacetime-Meta/documentation/blob/main/post_on_the_map.md)
+Answer is yes, you can build your stuff with the software that you want. As long as you can host your 3D environment on a webpage. The important part is that people don't have to download you game or world before playing. 
