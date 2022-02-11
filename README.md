@@ -6,9 +6,9 @@ The goal of this repository is to assemble a knowledge base for the community to
 For building on top of Spacetime Meta, we recomend reading the documentiation in numerical order.
 
 1. [Introduction](https://github.com/Spacetime-Meta/documentation/blob/main/how_to_build_a_world.md)
-2. [Create terrain and assets]()
-3. [Use the Cummunity Standard Kit]()
-4. [Host your world]()
+2. [Create terrain and assets](https://github.com/Spacetime-Meta/documentation/blob/main/Terrain_and_assets.md)
+3. [Use the Cummunity Standard Kit](https://github.com/Spacetime-Meta/documentation/blob/main/Community_Standard_Kit.md)
+4. [Host your world](https://github.com/Spacetime-Meta/documentation/blob/main/Host_your_world.md)
 5. [Connect to the map](https://github.com/Spacetime-Meta/documentation/blob/main/post_on_the_map.md)
 
-We strongly invite you to contribute in the developement of the Spacetime Meta ecosystem. To learn more you can read the [How to contribute]() documentation.
+We strongly invite you to contribute in the developement of the Spacetime Meta ecosystem. To learn more you can read the [How to contribute](https://github.com/Spacetime-Meta/documentation/blob/main/contribute.md) documentation.
