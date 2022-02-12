@@ -12,15 +12,15 @@ A good starting point is the [Blender Guru tutorial serie for beginers](https://
 
 Once you are starting to get the feel of 3D modeling, you can start working on a world for your planet. In the end, you only need one single `.glb` file containing your whole world. [This](https://github.com/Spacetime-Meta/spawn-planet2.0/blob/master/glb/spawnplanet.glb) is the file used for the spawn planet world, it is a good example for a terrain you can start with. (*click on view raw to download*)
 
-# Terrain
+## Terrain
 
 The first thing your should start with is the ground/terrain of you world. Try not to make it too big as it will take more time to load and might be laggy for lower end devices. Dont forget we are still in the very first days of the metaverse and most devices are not optimized for WebGL, so try to start small and scale with time as technology improves accross the render stack. (*The best is to spit your world in different scenes and link them together, but that is a more advance subject*)
 
-# Assets
+## Assets
 
 For now you should put all your assets in the same `.glb` file as your terrain, as you can see in the [example](https://github.com/Spacetime-Meta/spawn-planet2.0/blob/master/glb/spawnplanet.glb). All the trees, rocks and panels are in the same file. Everything you want to animate will have to go directily in the code for now. 
 
-# export
+## export
 
 Once you are done building the world of your dreams, you can export it to `.glb`
 ![Export to .glb](https://github.com/Spacetime-Meta/documentation/blob/main/src/blender_export_to_glb.png)
