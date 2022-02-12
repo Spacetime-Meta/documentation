@@ -1,9 +1,11 @@
 # Documentation
 The goal of this repository is to assemble a knowledge base for the community to build on top of Spacetime Metaverse. For information about the project and its mission, you can read the [whitepaper](https://github.com/Spacetime-Meta/documentation/blob/main/whitepaper.md).
 
-**Space Chunk policyID: 7652a254a5691f32203c093fcbd74193447c8724cadaf5e7402cf33b**  
+**Space Chunk policyID: 7652a254a5691f32203c093fcbd74193447c8724cadaf5e7402cf33b**
 
-For building on top of Spacetime Meta, we recomend reading the documentiation in numerical order.
+You are here extremely early in the project. Note that the Spacetime metaverse is still in its very early stages, we do not have much documentation and the code did not have any iteration of optimisation. For this reason you must stay aware that everything you read in this documentation is subject to changes and the code will evolve frequently over the next years.    
+
+For building on top of Spacetime Meta, we recomend reading the documentiation in the following order:
 
 1. [Introduction](https://github.com/Spacetime-Meta/documentation/blob/main/introduction.md)
 2. [Create terrain and assets](https://github.com/Spacetime-Meta/documentation/blob/main/Terrain_and_assets.md)
