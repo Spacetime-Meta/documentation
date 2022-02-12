@@ -1,4 +1,4 @@
-# How to update your planet and connects your world to the Spacetime Meta map.
+# How to update your planet and connect your world to the Spacetime Meta map.
 
 Spacetime Meta Map Actual Official Link: https://www.spacetimemeta.io/map
 
