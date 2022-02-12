@@ -16,9 +16,9 @@ Here is a list of solutions to build your 3D world:
 The Spacetime Community Kit is the Recomended solution as it will take care of the metaverse integration and will be continuously updated. **This is not a final version!** This is only a first draft and will demand a lot of work and feedback from the community in order to be complete. There will be bugs and problems, but we invite you to contribute to this standard. To learn more you can read the [how to contribute](https://www.youtube.com/watch?v=dQw4w9WgXcQ) documentation.
 
 As of now, there are 4 steps in creating a world and connecting it to the Spacetime Metaverse. Click the *Learn more* link for more infomation on each of these steps.
-1. Create the terrain and assets then export your scene to the `.gltf/.glb` format. [learn more]()
-2. Insert your terrain into the standard world. [learn more]()
-3. Host the standard world and make it accessible. [learn more]()
+1. Create the terrain and assets then export your scene to the `.gltf/.glb` format. [learn more](https://github.com/Spacetime-Meta/documentation/blob/main/Terrain_and_assets.md)
+2. Insert your terrain into the standard world. [learn more](https://github.com/Spacetime-Meta/documentation/blob/main/Community_Standard_Kit.md)
+3. Host the standard world and make it accessible. [learn more](https://github.com/Spacetime-Meta/documentation/blob/main/Host_your_world.md)
 4. Link the world to the Spacetime Meta map. [learn more](https://github.com/Spacetime-Meta/documentation/blob/main/post_on_the_map.md)
 
 All the other options are either more complex or have huge downsides when it comes to metaverse integration.
