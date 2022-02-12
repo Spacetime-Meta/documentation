@@ -10,7 +10,7 @@ https://www.blender.org/
 Blender is an extremely powerfull software and has an incredible amount of functionalities, for this reason, it is not easy for beginers. We really recommend watching some tutorials instead of going with trials and errors.  
 A good starting point is the [Blender Guru tutorial serie for beginers](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD). 
 
-Once you are starting to get the feel of 3D modeling, you can start working on a world for your planet. In the end, you only need one single `.glb` file containing your whole world. [This](https://github.com/Spacetime-Meta/spawn-planet2.0/blob/master/glb/spawnplanet.glb) is the file used for the spawn planet world, it is a good example for a terrain you can start with.
+Once you are starting to get the feel of 3D modeling, you can start working on a world for your planet. In the end, you only need one single `.glb` file containing your whole world. [This](https://github.com/Spacetime-Meta/spawn-planet2.0/blob/master/glb/spawnplanet.glb) is the file used for the spawn planet world, it is a good example for a terrain you can start with. (*click on view raw to download*)
 
 # Terrain
 
