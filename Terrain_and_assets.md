@@ -14,11 +14,11 @@ Once you are starting to get the feel of 3D modeling, you can start working on a
 
 # Terrain
 
-The first thing your should start with is the ground of you world.
+The first thing your should start with is the ground/terrain of you world. Try not to make it too big as it will take more time to load and might be laggy for lower end devices. Dont forget we are still in the very first days of the metaverse and most devices are not optimized for WebGL. (*The best is to spit your world in different scenes and link them together, but that is a more advance subject*)
 
 # Assets
 
-For now you should put all your assets in the same `.glb` file as your terrain, as you can see in the [example](https://github.com/Spacetime-Meta/spawn-planet2.0/blob/master/glb/spawnplanet.glb)
+For now you should put all your assets in the same `.glb` file as your terrain, as you can see in the [example](https://github.com/Spacetime-Meta/spawn-planet2.0/blob/master/glb/spawnplanet.glb). All the trees, rocks and panels are in the same file. Everything you want to animate will have to go directily in the code for now. 
 
 # export
 
