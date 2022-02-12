@@ -1,3 +1,7 @@
+# The Spacetime Community Standard Kit
+
+The goal of this kit is to unify the way virtual environements are built in the spacetime metaverse while allowing complete freedom to the creators. 
+
 The way to do this:
 1. Clone or download the [Spawn Planet Code](https://github.com/Spacetime-Meta/spawn-planet2.0). 
 2. Navigate to the `spawn-planet2.0/js/main.js`
