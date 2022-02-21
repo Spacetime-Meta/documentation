@@ -5,7 +5,7 @@ The goal of this repository is to assemble a knowledge base for the community to
 
 You are here extremely early in the project. Note that the Spacetime metaverse is still in its very early stages, we do not have much documentation and the code did not have any iteration of optimisation. For this reason you must stay aware that everything you read in this documentation is subject to changes and the code will evolve frequently over the next years.    
 
-Later in the developement, there will be more aspects to customizes, but for now, there are only 2 thing you can build on to of spacetime meta, your planet and your world. For learning more, we recomend reading the documentiation in the following order:
+Later in the developement, there will be more aspects to customizes, but for now, there are only 2 thing you can build on top of spacetime meta, your planet and your world. For learning more, we recomend reading the documentiation in the following order:
 
 First start with the planet (the icon on the map)
 - [How to get a custom planet](https://github.com/Spacetime-Meta/documentation/blob/main/custom_planet.md)
