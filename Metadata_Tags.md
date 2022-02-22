@@ -6,6 +6,7 @@ all the spacetime related information can be found in tags prefixed by `77223`.
 ```
 {
   “77223001”: {
+    chunks: [<chunkName>]
     name: <string>,
     logo: <url>,
     image: <url>,
@@ -14,5 +15,5 @@ all the spacetime related information can be found in tags prefixed by `77223`.
   }
 }
 ```
-All the field are facultatives, and will be set to the default values if omited.
+Exept `chunks`, all the other fields are facultatives. Field that are not customized will be set to the default values.
 
