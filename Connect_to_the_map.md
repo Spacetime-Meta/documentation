@@ -16,7 +16,7 @@ If you want to customize the appearance of your icon/planet, you will need a 3D 
 Once loaded in the map, you model will be scaled down to 1mx1mx1m so it is recommended you keep that in mind to avoid weird scaling.  
 
 2. **Link or IPFS hash to your project logo**  
-This should be a square image, idealy 64x64.
+This should be a square image, ideally 64x64.
 
 3. **Link or IPFS hash to your banner image**  
 This should be a 1920x1080 image.
