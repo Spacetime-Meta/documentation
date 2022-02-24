@@ -13,7 +13,7 @@ To connect a website to the metaverse, you will need the following 5 things:
 1. **IPFS hash of your 3D icon**  
 This part is optional, if you dont put anything, the loader will generate a default planet for your location.
 If you want to customize the appearance of your icon/planet, you will need a 3D model in the .gltf/.glb file format.  
-Once loaded in the map, you model will be scaled down to 1mx1mx1m so it is recomemded you keep that in mind to avoid weird scaling.  
+Once loaded in the map, you model will be scaled down to 1mx1mx1m so it is recommended you keep that in mind to avoid weird scaling.  
 
 2. **Link or IPFS hash to your project logo**  
 This should be a square image, idealy 64x64.
