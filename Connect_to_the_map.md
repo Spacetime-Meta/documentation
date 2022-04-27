@@ -1,12 +1,10 @@
 # How to update your planet and connect your world to the Spacetime Meta map.
 
-Spacetime Meta Map Actual Official Link: https://www.spacetimemeta.io/map
+Spacetime Meta Map Actual Official Link: https://www.spacetimemeta.io/#/map
 
 **The map is still in heavy developement! Please be aware that there will be constant updates to this documentation and you might have to update your app/chunk to keep up with the latest methods**
 
-As of 2022-02-03, the easy way to update your chunk is by using the [Nami wallet](https://namiwallet.io/).
-
-To connect a website to the metaverse, you will need the following 5 things:
+As of 2022-05-01, the easy way to update your chunk is by the [Spacetime Website](https://www.spacetimemeta.io/#/upload).
 
 # STEP 1: Prepare your stuff
 
@@ -31,28 +29,15 @@ This is the short text that appears when users mouse hover your planet.
 
 # STEP 2: Test your stuff
 
-Once you have all 5 items, go to the icon tester at https://www.spacetimemeta.io/tester . You will see a form and need to fill it with the information you gathered earlier.
+Once you have all 5 items, go to the customisation page of the sapcetime website at https://www.spacetimemeta.io/#/upload. You will see a form and need to fill it with the information you gathered earlier.
 
-![icon tester](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/info_menu.png)
+# STEP 3: Select the chunks
 
-# STEP 3: Do the transaction
+Use the panel to select the chunks you want to customize. (dont select to many at the same time)  
 
-in this step you need to open your Nami wallet and follow the steps:  
+# STEP 4: Submit transaction 
 
-## First step is to copy your own receiving address  
-![step 1](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/step1.png)  
-
-## Second step is to select the chunk you want to update and open the transaction menu  
-![step 2](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/step2.png)  
-
-## Third step is to paste your own receiving address in the address field of the transaction menu  
-![step 3](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/step3.png)  
-
-## Fourth step is to go back on the icon tester and copy your JSON with all the information you have prepared  
-![step 4](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/step4.png)  
-
-## Final step is to paste the json in the message field of the transaction menu and send the transaction.  
-![step 5](https://raw.githubusercontent.com/Spacetime-Meta/documentation/main/src/step5.png)  
+You will be prompted by your wallet to sign a transaction. make sure it is an internal transfert. 
 
 **Have difficulty updating your planet?**  
 Join our [Official Discord](https://discord.gg/wtRMBXw2bd) and ask question. Someone will help you.
