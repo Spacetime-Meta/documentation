@@ -18,3 +18,9 @@ The development and branching will be made according to the classic Git branchin
 **[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)**
 
 ![Git Branching Model](https://nvie.com/img/git-model@2x.png)
+
+## Versioning
+
+For standard versioning, we refer to this documentation
+
+**[Semantic Versioning 2.0.0](https://semver.org/)**
