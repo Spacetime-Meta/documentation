@@ -53,10 +53,12 @@ On top of these Space Chunk CNFTs, we build the metaverse using transaction meta
 ## Part 5.1. Metadata tags
 All the spacetime related information can be found in tags prefixed by `77223`.
 
+**Tag 001: chunk customization**
+
 `77223001` is the tag for chunk customization. The standard format is the following:
 ```
 {
-  “77223001”: {
+  "77223001": {
     chunks: [<chunkName>]
     name: <string>,
     logo: <url>,
@@ -68,7 +70,23 @@ All the spacetime related information can be found in tags prefixed by `77223`.
 ```
 Except for the `chunks` field, all the other fields are optionals. Field that are not customized will be set to the default values. The default values are stored in a GitHub repo and can be modified. Any one can propose a modification by creating a pull request to this [json file](https://github.com/Spacetime-Meta/spacetime-metadata/blob/main/defaultChunk.json) 
 
+**Tag 002: Proposal vote**
 
+`77223002` is the tag for [Spacetime Governance](https://www.spacetimemeta.io/#/governance) votes. The standard format is the following:
+```
+{
+    "77223002":
+        chunks: [<chunkName>],
+        option: <customOption>,
+        proposalID: <proposalID>
+    }
+}
+```
+All the fields are mandatory for this one. The option can be any string or number. The proposal ID must match an proposal that is open at the time of the transaction.
+
+**Tag 003: Profile Customization**
+
+`77223003` is the tag for [Spacetime profiles](https://www.spacetimemeta.io/#/profile). A complete [identity whitepaper](./identity_whitepaper.md) is available on the subject.
 
 ## Part 5.2. Space Chunk 0.
 Space Chunk 0 is the center of the Metaverse and points to the root scene of the simulation. It contains a scene that represents the universe at its smallest scale. This is the scene displayed to users about to navigate the Metaverse. We call it the map or the portal scene.

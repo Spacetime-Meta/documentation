@@ -110,7 +110,7 @@ Here is an example of what a valid metadata for full customization of
 a profile might look like:
 ```
 {
-    77223004:{
+    77223003:{
         “handle”: “$user-handle”,
         “name”: “demo user”,
         “image”: “Qme7ss3ARVgxv6rXqVPiikMJ8u2NLgmgszg13pYrDKEoiu”,
@@ -158,7 +158,7 @@ the same way.
 Here is an example of valid metadata for a project profile registration:
 ```
 {
-    77223003:{
+    77223004:{
         “handle”: “$project-handle”,
         “type”: “project”,
         “name”: “demo project”
